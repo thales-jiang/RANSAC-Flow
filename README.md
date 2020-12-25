@@ -1,6 +1,12 @@
 # wumpus
 
 
+# python版
+
+## 支持库
+python3.5 pygame
+
+# 网页版
 ## 测试
 ```
 npm start
